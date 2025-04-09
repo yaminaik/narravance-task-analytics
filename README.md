@@ -44,11 +44,12 @@ Vite dev server: http://localhost:5173
 
 ## Sample Sources
 
-source_a.json: Kaggle dataset (JSON)
+source_a.json: Kaggle dataset (CSV)
 
-source_b.csv:  Simulated dealership sales (CSV) 
+source_b.csv:  Simulated dealership sales (JSON) 
 
 
 
 ## Demo Video
+https://youtu.be/46FUN7CPFdk
 
