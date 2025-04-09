@@ -1,0 +1,8002 @@
+[
+  {
+    "company": "GMC",
+    "model": "Safari",
+    "price": 5518.22,
+    "date": "2022-01-01",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "RL",
+    "price": 11202.37,
+    "date": "2022-01-02",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Golf",
+    "price": 12967.48,
+    "date": "2022-01-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Excursion",
+    "price": 3009.08,
+    "date": "2022-01-04",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra 1500",
+    "price": 9868.11,
+    "date": "2022-01-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Dakota",
+    "price": 10953.68,
+    "date": "2022-01-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Malibu",
+    "price": 13210.69,
+    "date": "2022-01-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Mirage",
+    "price": 7678.99,
+    "date": "2022-01-09",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "Cayenne",
+    "price": 16881.3,
+    "date": "2022-01-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Suburban 2500",
+    "price": 17614.23,
+    "date": "2022-01-12",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 8531.37,
+    "date": "2022-01-12",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "RX Hybrid",
+    "price": 1859.56,
+    "date": "2022-01-14",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 3500",
+    "price": 3005.99,
+    "date": "2022-01-14",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Sidekick",
+    "price": 27308.42,
+    "date": "2022-01-19",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "M3",
+    "price": 1452.96,
+    "date": "2022-01-19",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9-5",
+    "price": 19191.43,
+    "date": "2022-01-19",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Sonata",
+    "price": 11973.27,
+    "date": "2022-01-21",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Continental",
+    "price": 40011.29,
+    "date": "2022-01-23",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "911",
+    "price": 44824.63,
+    "date": "2022-01-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "C-Class",
+    "price": 21803.52,
+    "date": "2022-01-26",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sportage",
+    "price": 35392.2,
+    "date": "2022-01-27",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "G-Series 1500",
+    "price": 1917.12,
+    "date": "2022-01-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Corolla",
+    "price": 23074.21,
+    "date": "2022-01-27",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Century",
+    "price": 15047.9,
+    "date": "2022-01-28",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "V90",
+    "price": 3067.05,
+    "date": "2022-01-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Silverado Hybrid",
+    "price": 2983.93,
+    "date": "2022-01-31",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Diamante",
+    "price": 1822.15,
+    "date": "2022-01-31",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Civic",
+    "price": 12604.16,
+    "date": "2022-02-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "XLR",
+    "price": 9767.75,
+    "date": "2022-02-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Isuzu",
+    "model": "Oasis",
+    "price": 27807.25,
+    "date": "2022-02-02",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Silverado 2500",
+    "price": 20966.99,
+    "date": "2022-02-02",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "LHS",
+    "price": 22398.14,
+    "date": "2022-02-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F250",
+    "price": 3934.68,
+    "date": "2022-02-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Daewoo",
+    "model": "Lanos",
+    "price": 1049.47,
+    "date": "2022-02-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F-Series",
+    "price": 36663.7,
+    "date": "2022-02-09",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Crown Victoria",
+    "price": 9848.17,
+    "date": "2022-02-09",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Expedition EL",
+    "price": 6910.63,
+    "date": "2022-02-13",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-3",
+    "price": 10774.94,
+    "date": "2022-02-14",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "S8",
+    "price": 10396.86,
+    "date": "2022-02-15",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Laser",
+    "price": 14359.42,
+    "date": "2022-02-15",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "300ZX",
+    "price": 20662.22,
+    "date": "2022-02-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Mazda3",
+    "price": 15678.28,
+    "date": "2022-02-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "B-Series Plus",
+    "price": 10778.65,
+    "date": "2022-02-19",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Econoline E150",
+    "price": 21258.49,
+    "date": "2022-02-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Van 2500",
+    "price": 22158.73,
+    "date": "2022-02-20",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Truck",
+    "price": 32716.55,
+    "date": "2022-02-20",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "CR-V",
+    "price": 6454.16,
+    "date": "2022-02-20",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Wagon B250",
+    "price": 34477.29,
+    "date": "2022-02-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "Cayman",
+    "price": 4651.44,
+    "date": "2022-02-25",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Pilot",
+    "price": 1108.33,
+    "date": "2022-02-25",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Pathfinder",
+    "price": 3868.63,
+    "date": "2022-02-26",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Suburban",
+    "price": 2770.84,
+    "date": "2022-02-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Continental",
+    "price": 38948.97,
+    "date": "2022-02-28",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Canyon",
+    "price": 6490.02,
+    "date": "2022-03-01",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "S90",
+    "price": 19068.01,
+    "date": "2022-03-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Eurovan",
+    "price": 9323.13,
+    "date": "2022-03-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Falcon",
+    "price": 32197.32,
+    "date": "2022-03-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Eagle",
+    "model": "Vision",
+    "price": 9968.0,
+    "date": "2022-03-02",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "80",
+    "price": 53595.9,
+    "date": "2022-03-02",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "G6",
+    "price": 12233.81,
+    "date": "2022-03-04",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Bronco II",
+    "price": 4780.16,
+    "date": "2022-03-06",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Mariner",
+    "price": 1922.28,
+    "date": "2022-03-08",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Geo",
+    "model": "Metro",
+    "price": 1861.92,
+    "date": "2022-03-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "RX-7",
+    "price": 23058.61,
+    "date": "2022-03-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F350",
+    "price": 5397.23,
+    "date": "2022-03-11",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Blazer",
+    "price": 6272.9,
+    "date": "2022-03-12",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Ridgeline",
+    "price": 10722.15,
+    "date": "2022-03-12",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "QX",
+    "price": 2422.68,
+    "date": "2022-03-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Trans Sport",
+    "price": 14541.18,
+    "date": "2022-03-14",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "88",
+    "price": 36563.81,
+    "date": "2022-03-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Millenia",
+    "price": 43642.15,
+    "date": "2022-03-15",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Highlander",
+    "price": 10522.25,
+    "date": "2022-03-16",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "XC90",
+    "price": 16977.59,
+    "date": "2022-03-17",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Express 2500",
+    "price": 23763.43,
+    "date": "2022-03-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Passport",
+    "price": 7693.0,
+    "date": "2022-03-19",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "ES",
+    "price": 10425.69,
+    "date": "2022-03-21",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Isuzu",
+    "model": "Rodeo",
+    "price": 10551.5,
+    "date": "2022-03-22",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Eurovan",
+    "price": 34742.64,
+    "date": "2022-03-23",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "L300",
+    "price": 61096.1,
+    "date": "2022-03-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Quest",
+    "price": 268.58,
+    "date": "2022-03-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Century",
+    "price": 43454.95,
+    "date": "2022-03-28",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Grand Prix",
+    "price": 63183.85,
+    "date": "2022-03-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Avalanche",
+    "price": 5478.88,
+    "date": "2022-03-28",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "LX",
+    "price": 19426.94,
+    "date": "2022-03-29",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Civic",
+    "price": 34086.7,
+    "date": "2022-03-31",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Alfa Romeo",
+    "model": "Spider",
+    "price": 30556.96,
+    "date": "2022-04-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "TSX",
+    "price": 7157.06,
+    "date": "2022-04-02",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover",
+    "price": 25234.5,
+    "date": "2022-04-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "300SL",
+    "price": 47066.19,
+    "date": "2022-04-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Savana 1500",
+    "price": 5623.21,
+    "date": "2022-04-07",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Rio",
+    "price": 2505.14,
+    "date": "2022-04-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 1788.84,
+    "date": "2022-04-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "L-Series",
+    "price": 19575.97,
+    "date": "2022-04-09",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Passat",
+    "price": 49531.21,
+    "date": "2022-04-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F-Series",
+    "price": 10499.26,
+    "date": "2022-04-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Mirage",
+    "price": 55733.54,
+    "date": "2022-04-12",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Endeavor",
+    "price": 11087.56,
+    "date": "2022-04-13",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "XK Series",
+    "price": 9315.3,
+    "date": "2022-04-15",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Concorde",
+    "price": 2171.7,
+    "date": "2022-04-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Bentley",
+    "model": "Continental",
+    "price": 9140.75,
+    "date": "2022-04-17",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon",
+    "price": 13070.72,
+    "date": "2022-04-17",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "NV1500",
+    "price": 4859.97,
+    "date": "2022-04-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Prius Plug-in Hybrid",
+    "price": 13988.23,
+    "date": "2022-04-22",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "Ion",
+    "price": 318.89,
+    "date": "2022-04-28",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "3 Series",
+    "price": 2286.19,
+    "date": "2022-04-29",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Town Car",
+    "price": 2689.14,
+    "date": "2022-04-29",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Journey",
+    "price": 1393.05,
+    "date": "2022-05-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Highlander",
+    "price": 205.99,
+    "date": "2022-05-05",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9000",
+    "price": 35158.45,
+    "date": "2022-05-08",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Scion",
+    "model": "tC",
+    "price": 16522.63,
+    "date": "2022-05-10",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Camaro",
+    "price": 5355.05,
+    "date": "2022-05-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "QX56",
+    "price": 738.9,
+    "date": "2022-05-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "5 Series",
+    "price": 20600.67,
+    "date": "2022-05-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "M-Class",
+    "price": 2165.41,
+    "date": "2022-05-15",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Maxima",
+    "price": 3974.93,
+    "date": "2022-05-15",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Reno",
+    "price": 14083.93,
+    "date": "2022-05-15",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Tempo",
+    "price": 54131.53,
+    "date": "2022-05-15",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Pathfinder",
+    "price": 6960.07,
+    "date": "2022-05-15",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "DeVille",
+    "price": 5822.27,
+    "date": "2022-05-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "R-Class",
+    "price": 6955.13,
+    "date": "2022-05-17",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9-3",
+    "price": 811.71,
+    "date": "2022-05-17",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Explorer Sport Trac",
+    "price": 16975.76,
+    "date": "2022-05-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Avalanche 2500",
+    "price": 19371.09,
+    "date": "2022-05-19",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lotus",
+    "model": "Elise",
+    "price": 2841.2,
+    "date": "2022-05-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 2500",
+    "price": 32511.31,
+    "date": "2022-05-22",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "1500 Club Coupe",
+    "price": 27787.07,
+    "date": "2022-05-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Econoline E150",
+    "price": 32851.86,
+    "date": "2022-05-24",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Beretta",
+    "price": 45761.99,
+    "date": "2022-05-25",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "S10",
+    "price": 3470.87,
+    "date": "2022-05-25",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Geo",
+    "model": "Metro",
+    "price": 273.47,
+    "date": "2022-05-26",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 1945.27,
+    "date": "2022-05-27",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "riolet",
+    "price": 1354.82,
+    "date": "2022-05-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Grand Caravan",
+    "price": 2979.99,
+    "date": "2022-05-29",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Brougham",
+    "price": 11911.94,
+    "date": "2022-05-31",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F-Series",
+    "price": 34108.68,
+    "date": "2022-06-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Grand Prix",
+    "price": 323.14,
+    "date": "2022-06-02",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "S-Type",
+    "price": 15408.27,
+    "date": "2022-06-02",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Sentra",
+    "price": 1827.25,
+    "date": "2022-06-03",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A6",
+    "price": 7634.58,
+    "date": "2022-06-05",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Grand Prix",
+    "price": 32306.04,
+    "date": "2022-06-05",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Corolla",
+    "price": 6136.54,
+    "date": "2022-06-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "XC90",
+    "price": 11619.63,
+    "date": "2022-06-08",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "RL",
+    "price": 4598.05,
+    "date": "2022-06-08",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Five Hundred",
+    "price": 12046.16,
+    "date": "2022-06-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon",
+    "price": 5610.18,
+    "date": "2022-06-09",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "E-Series",
+    "price": 24335.4,
+    "date": "2022-06-10",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Kizashi",
+    "price": 3971.62,
+    "date": "2022-06-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Legacy",
+    "price": 44683.46,
+    "date": "2022-06-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "Q",
+    "price": 14970.88,
+    "date": "2022-06-11",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Legacy",
+    "price": 740.1,
+    "date": "2022-06-11",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Vandura 3500",
+    "price": 12475.75,
+    "date": "2022-06-12",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9-5",
+    "price": 13804.7,
+    "date": "2022-06-12",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Diamante",
+    "price": 11359.46,
+    "date": "2022-06-14",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Monte Carlo",
+    "price": 8462.05,
+    "date": "2022-06-14",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "850",
+    "price": 17362.03,
+    "date": "2022-06-15",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ferrari",
+    "model": "599 GTB Fiorano",
+    "price": 14614.0,
+    "date": "2022-06-17",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "530",
+    "price": 7614.96,
+    "date": "2022-06-18",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Grand Prix",
+    "price": 25790.93,
+    "date": "2022-06-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 3500",
+    "price": 20473.54,
+    "date": "2022-06-18",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Baja",
+    "price": 23562.02,
+    "date": "2022-06-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "VUE",
+    "price": 331.81,
+    "date": "2022-06-21",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Villager",
+    "price": 32153.16,
+    "date": "2022-06-21",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Blackwood",
+    "price": 902.2,
+    "date": "2022-06-23",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Express 2500",
+    "price": 5479.26,
+    "date": "2022-06-27",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Escalade ESV",
+    "price": 5582.55,
+    "date": "2022-07-01",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Cabriolet",
+    "price": 35239.92,
+    "date": "2022-07-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "325",
+    "price": 17048.92,
+    "date": "2022-07-03",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Avalon",
+    "price": 11094.96,
+    "date": "2022-07-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Tiburon",
+    "price": 6109.69,
+    "date": "2022-07-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "LR3",
+    "price": 2715.98,
+    "date": "2022-07-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "PT Cruiser",
+    "price": 9107.74,
+    "date": "2022-07-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 14212.44,
+    "date": "2022-07-07",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "5 Series",
+    "price": 1101.56,
+    "date": "2022-07-07",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Nitro",
+    "price": 14694.72,
+    "date": "2022-07-08",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Rolls-Royce",
+    "model": "Phantom",
+    "price": 4034.12,
+    "date": "2022-07-09",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "2500",
+    "price": 24585.54,
+    "date": "2022-07-09",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Avenger",
+    "price": 1416.01,
+    "date": "2022-07-10",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "S6",
+    "price": 13734.6,
+    "date": "2022-07-11",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Galant",
+    "price": 51687.3,
+    "date": "2022-07-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Viper",
+    "price": 3510.2,
+    "date": "2022-07-14",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 862.27,
+    "date": "2022-07-16",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "Astra",
+    "price": 3065.35,
+    "date": "2022-07-17",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "RAV4",
+    "price": 6680.12,
+    "date": "2022-07-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Van 3500",
+    "price": 1415.09,
+    "date": "2022-07-20",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Van B350",
+    "price": 38059.44,
+    "date": "2022-07-21",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "B-Series",
+    "price": 34710.41,
+    "date": "2022-07-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 2394.58,
+    "date": "2022-07-22",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Maybach",
+    "model": "Landaulet",
+    "price": 3459.21,
+    "date": "2022-07-22",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra 1500",
+    "price": 5875.29,
+    "date": "2022-07-26",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Bentley",
+    "model": "Azure T",
+    "price": 13192.5,
+    "date": "2022-07-28",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "RX-8",
+    "price": 13166.6,
+    "date": "2022-07-28",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Ranger",
+    "price": 16267.48,
+    "date": "2022-07-31",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Maserati",
+    "model": "228",
+    "price": 24794.01,
+    "date": "2022-08-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Isuzu",
+    "model": "Rodeo",
+    "price": 732.4,
+    "date": "2022-08-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "350Z",
+    "price": 17079.44,
+    "date": "2022-08-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "6 Series",
+    "price": 8689.88,
+    "date": "2022-08-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MPV",
+    "price": 4496.99,
+    "date": "2022-08-08",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "88",
+    "price": 10566.88,
+    "date": "2022-08-10",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "CLS-Class",
+    "price": 3802.87,
+    "date": "2022-08-10",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "CTS",
+    "price": 8316.76,
+    "date": "2022-08-13",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "M-Class",
+    "price": 1972.94,
+    "date": "2022-08-14",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A3",
+    "price": 10241.19,
+    "date": "2022-08-15",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "1500 Club Coupe",
+    "price": 25450.66,
+    "date": "2022-08-20",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F450",
+    "price": 14547.71,
+    "date": "2022-08-20",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Aptera",
+    "model": "Type-1h",
+    "price": 2466.68,
+    "date": "2022-08-20",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-5",
+    "price": 9361.95,
+    "date": "2022-08-21",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "IS",
+    "price": 26197.51,
+    "date": "2022-08-24",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Forester",
+    "price": 1623.31,
+    "date": "2022-08-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Firefly",
+    "price": 2220.12,
+    "date": "2022-08-24",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sorento",
+    "price": 13183.72,
+    "date": "2022-08-24",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Silverado 3500",
+    "price": 12843.81,
+    "date": "2022-08-25",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "RAV4",
+    "price": 22444.54,
+    "date": "2022-08-26",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Achieva",
+    "price": 3340.16,
+    "date": "2022-08-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Crown Victoria",
+    "price": 323.56,
+    "date": "2022-08-29",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "SJ",
+    "price": 19582.59,
+    "date": "2022-08-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Equinox",
+    "price": 7330.15,
+    "date": "2022-09-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "C-Class",
+    "price": 5822.18,
+    "date": "2022-09-01",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Type 2",
+    "price": 5750.9,
+    "date": "2022-09-02",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Firefly",
+    "price": 45706.15,
+    "date": "2022-09-04",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "CTS",
+    "price": 984.34,
+    "date": "2022-09-04",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "NSX",
+    "price": 2397.24,
+    "date": "2022-09-04",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Avenger",
+    "price": 10877.64,
+    "date": "2022-09-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Laser",
+    "price": 2512.17,
+    "date": "2022-09-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Firefly",
+    "price": 38307.86,
+    "date": "2022-09-07",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Festiva",
+    "price": 21172.86,
+    "date": "2022-09-08",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "CL-Class",
+    "price": 2280.94,
+    "date": "2022-09-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Montego",
+    "price": 592.04,
+    "date": "2022-09-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Suburban 1500",
+    "price": 32412.58,
+    "date": "2022-09-13",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Matrix",
+    "price": 6106.96,
+    "date": "2022-09-15",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Lynx",
+    "price": 62915.64,
+    "date": "2022-09-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "CL-Class",
+    "price": 5915.5,
+    "date": "2022-09-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Aerostar",
+    "price": 45666.56,
+    "date": "2022-09-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Explorer",
+    "price": 15127.77,
+    "date": "2022-09-20",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A8",
+    "price": 22262.35,
+    "date": "2022-09-20",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 47293.78,
+    "date": "2022-09-21",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Grand Marquis",
+    "price": 19255.89,
+    "date": "2022-09-25",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Ranger",
+    "price": 19561.31,
+    "date": "2022-09-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "GLI",
+    "price": 7660.36,
+    "date": "2022-09-28",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon XL 2500",
+    "price": 4600.03,
+    "date": "2022-09-29",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Hummer",
+    "model": "H2",
+    "price": 364.74,
+    "date": "2022-09-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A6",
+    "price": 11554.23,
+    "date": "2022-09-30",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Loyale",
+    "price": 20025.12,
+    "date": "2022-10-03",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Shadow",
+    "price": 48392.67,
+    "date": "2022-10-06",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Sportvan G10",
+    "price": 38695.78,
+    "date": "2022-10-09",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A4",
+    "price": 20801.36,
+    "date": "2022-10-11",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corsica",
+    "price": 43463.88,
+    "date": "2022-10-12",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Blazer",
+    "price": 9485.7,
+    "date": "2022-10-13",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Altima",
+    "price": 5288.92,
+    "date": "2022-10-14",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Prowler",
+    "price": 29026.44,
+    "date": "2022-10-14",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Town Car",
+    "price": 36582.09,
+    "date": "2022-10-15",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Bonneville",
+    "price": 37633.91,
+    "date": "2022-10-17",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Accord",
+    "price": 21419.84,
+    "date": "2022-10-17",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "SC",
+    "price": 15065.76,
+    "date": "2022-10-17",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Navigator",
+    "price": 31900.1,
+    "date": "2022-10-18",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover Evoque",
+    "price": 15768.93,
+    "date": "2022-10-18",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Sunbird",
+    "price": 32546.66,
+    "date": "2022-10-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "S80",
+    "price": 29339.99,
+    "date": "2022-10-19",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "LeSabre",
+    "price": 12567.78,
+    "date": "2022-10-19",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Land Cruiser",
+    "price": 17545.63,
+    "date": "2022-10-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Impreza",
+    "price": 5072.97,
+    "date": "2022-10-19",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F350",
+    "price": 3064.38,
+    "date": "2022-10-21",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Pajero",
+    "price": 4457.86,
+    "date": "2022-10-22",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 2809.28,
+    "date": "2022-10-26",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Commander",
+    "price": 14635.69,
+    "date": "2022-10-26",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "Allroad",
+    "price": 74.7,
+    "date": "2022-10-28",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Econoline E350",
+    "price": 26442.52,
+    "date": "2022-10-28",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Millenia",
+    "price": 25070.01,
+    "date": "2022-10-29",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "3500",
+    "price": 16339.4,
+    "date": "2022-10-29",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Caprice",
+    "price": 39017.92,
+    "date": "2022-10-30",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 3301.99,
+    "date": "2022-10-31",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Expedition EL",
+    "price": 10987.92,
+    "date": "2022-11-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "E250",
+    "price": 8596.61,
+    "date": "2022-11-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Rio",
+    "price": 7714.84,
+    "date": "2022-11-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "X-Type",
+    "price": 11466.28,
+    "date": "2022-11-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Cube",
+    "price": 1603.77,
+    "date": "2022-11-10",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "6 Series",
+    "price": 7026.0,
+    "date": "2022-11-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Sidekick",
+    "price": 30481.44,
+    "date": "2022-11-11",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Jetta",
+    "price": 3917.86,
+    "date": "2022-11-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Camry Hybrid",
+    "price": 13527.77,
+    "date": "2022-11-11",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Suburban",
+    "price": 1013.53,
+    "date": "2022-11-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Cavalier",
+    "price": 21087.27,
+    "date": "2022-11-14",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Envoy XL",
+    "price": 5711.93,
+    "date": "2022-11-14",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "i-MiEV",
+    "price": 16993.92,
+    "date": "2022-11-14",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sedona",
+    "price": 9036.97,
+    "date": "2022-11-15",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Wagon B150",
+    "price": 17557.34,
+    "date": "2022-11-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Highlander Hybrid",
+    "price": 11735.59,
+    "date": "2022-11-17",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Camaro",
+    "price": 28590.82,
+    "date": "2022-11-18",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 28587.64,
+    "date": "2022-11-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "V40",
+    "price": 20379.47,
+    "date": "2022-11-20",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "ES",
+    "price": 5308.02,
+    "date": "2022-11-21",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Panoz",
+    "model": "Esperante",
+    "price": 13480.86,
+    "date": "2022-11-23",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Paseo",
+    "price": 25106.83,
+    "date": "2022-11-23",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "645",
+    "price": 10387.61,
+    "date": "2022-11-25",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "V70",
+    "price": 2841.84,
+    "date": "2022-11-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Tahoe",
+    "price": 4942.36,
+    "date": "2022-12-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Escalade ESV",
+    "price": 17291.53,
+    "date": "2022-12-02",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Outback",
+    "price": 3535.42,
+    "date": "2022-12-03",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "RX Hybrid",
+    "price": 15883.33,
+    "date": "2022-12-04",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Reatta",
+    "price": 13588.21,
+    "date": "2022-12-05",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Tracer",
+    "price": 45261.43,
+    "date": "2022-12-05",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "XC90",
+    "price": 4639.11,
+    "date": "2022-12-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "944",
+    "price": 34160.77,
+    "date": "2022-12-10",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "X-90",
+    "price": 15347.99,
+    "date": "2022-12-10",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Armada",
+    "price": 7750.94,
+    "date": "2022-12-11",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Firefly",
+    "price": 19446.94,
+    "date": "2022-12-12",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F350",
+    "price": 9076.42,
+    "date": "2022-12-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "New Yorker",
+    "price": 27787.27,
+    "date": "2022-12-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Terraza",
+    "price": 11420.77,
+    "date": "2022-12-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Eurovan",
+    "price": 12041.92,
+    "date": "2022-12-17",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Viper",
+    "price": 15394.09,
+    "date": "2022-12-18",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Camaro",
+    "price": 38736.21,
+    "date": "2022-12-22",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Camry Hybrid",
+    "price": 11060.99,
+    "date": "2022-12-22",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A3",
+    "price": 10074.19,
+    "date": "2022-12-23",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Crown Victoria",
+    "price": 7162.9,
+    "date": "2022-12-23",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "760",
+    "price": 12788.25,
+    "date": "2022-12-23",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover",
+    "price": 19424.16,
+    "date": "2022-12-24",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 65612.13,
+    "date": "2022-12-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Supra",
+    "price": 2848.03,
+    "date": "2022-12-28",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Tercel",
+    "price": 2483.31,
+    "date": "2022-12-29",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "QX56",
+    "price": 17926.22,
+    "date": "2022-12-31",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Suburban 1500",
+    "price": 18659.68,
+    "date": "2022-12-31",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Compass",
+    "price": 8362.77,
+    "date": "2023-01-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Navigator",
+    "price": 20200.46,
+    "date": "2023-01-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "RSX",
+    "price": 13301.12,
+    "date": "2023-01-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "XC70",
+    "price": 11072.61,
+    "date": "2023-01-05",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "CR-X",
+    "price": 6299.25,
+    "date": "2023-01-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "XK",
+    "price": 467.48,
+    "date": "2023-01-08",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-5",
+    "price": 8829.23,
+    "date": "2023-01-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Grand Prix",
+    "price": 21329.25,
+    "date": "2023-01-13",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Suburban 1500",
+    "price": 13261.3,
+    "date": "2023-01-14",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Tundra",
+    "price": 16696.31,
+    "date": "2023-01-16",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caliber",
+    "price": 5787.79,
+    "date": "2023-01-18",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Rondo",
+    "price": 1578.01,
+    "date": "2023-01-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sedona",
+    "price": 8340.91,
+    "date": "2023-01-20",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Sonata",
+    "price": 2360.56,
+    "date": "2023-01-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "M3",
+    "price": 33738.32,
+    "date": "2023-01-23",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "E-Series",
+    "price": 14275.28,
+    "date": "2023-01-23",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Express",
+    "price": 8944.34,
+    "date": "2023-01-24",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Kizashi",
+    "price": 11115.78,
+    "date": "2023-01-25",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Grand Marquis",
+    "price": 15714.91,
+    "date": "2023-01-25",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Sonata",
+    "price": 3913.06,
+    "date": "2023-01-28",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "MINI",
+    "model": "Cooper Countryman",
+    "price": 9523.47,
+    "date": "2023-01-28",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Lancer",
+    "price": 11582.33,
+    "date": "2023-01-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "900",
+    "price": 8757.84,
+    "date": "2023-01-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Jimmy",
+    "price": 23894.35,
+    "date": "2023-01-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Discovery Series II",
+    "price": 10215.43,
+    "date": "2023-01-31",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Grand Caravan",
+    "price": 1919.36,
+    "date": "2023-02-01",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9000",
+    "price": 3030.49,
+    "date": "2023-02-02",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover Sport",
+    "price": 3978.59,
+    "date": "2023-02-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Stratus",
+    "price": 9529.64,
+    "date": "2023-02-09",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Savana 1500",
+    "price": 682.99,
+    "date": "2023-02-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F150",
+    "price": 1771.32,
+    "date": "2023-02-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Avalon",
+    "price": 20037.49,
+    "date": "2023-02-10",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Soul",
+    "price": 4372.38,
+    "date": "2023-02-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "940",
+    "price": 41806.12,
+    "date": "2023-02-17",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Outlander",
+    "price": 12926.29,
+    "date": "2023-02-17",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "RS 6",
+    "price": 4101.78,
+    "date": "2023-02-19",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "7 Series",
+    "price": 14885.75,
+    "date": "2023-02-19",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 8556.56,
+    "date": "2023-02-20",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Explorer Sport Trac",
+    "price": 9096.65,
+    "date": "2023-02-20",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "MINI",
+    "model": "Cooper",
+    "price": 1938.45,
+    "date": "2023-02-22",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Outback",
+    "price": 2216.61,
+    "date": "2023-02-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Sentra",
+    "price": 40119.54,
+    "date": "2023-02-22",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Element",
+    "price": 4611.19,
+    "date": "2023-02-23",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Savana 1500",
+    "price": 4668.03,
+    "date": "2023-02-24",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "100",
+    "price": 37774.27,
+    "date": "2023-02-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Isuzu",
+    "model": "Trooper",
+    "price": 19575.19,
+    "date": "2023-02-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "LeSabre",
+    "price": 6541.94,
+    "date": "2023-02-28",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Bonneville",
+    "price": 11978.01,
+    "date": "2023-02-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-3",
+    "price": 1610.23,
+    "date": "2023-03-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "New Beetle",
+    "price": 20497.99,
+    "date": "2023-03-02",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Blazer",
+    "price": 2959.7,
+    "date": "2023-03-02",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Grand Am",
+    "price": 6080.51,
+    "date": "2023-03-02",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "Legend",
+    "price": 18591.24,
+    "date": "2023-03-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 2500",
+    "price": 22713.57,
+    "date": "2023-03-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Galant",
+    "price": 2546.36,
+    "date": "2023-03-04",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Ridgeline",
+    "price": 9643.44,
+    "date": "2023-03-05",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Silhouette",
+    "price": 12437.21,
+    "date": "2023-03-06",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Vibe",
+    "price": 10648.05,
+    "date": "2023-03-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "price": 22991.31,
+    "date": "2023-03-07",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "370Z",
+    "price": 3008.57,
+    "date": "2023-03-08",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "944",
+    "price": 1780.78,
+    "date": "2023-03-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Geo",
+    "model": "Prizm",
+    "price": 45670.48,
+    "date": "2023-03-11",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "Ion",
+    "price": 14610.91,
+    "date": "2023-03-19",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Express 1500",
+    "price": 9709.96,
+    "date": "2023-03-19",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F150",
+    "price": 15082.9,
+    "date": "2023-03-20",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Impala",
+    "price": 4787.91,
+    "date": "2023-03-21",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Prowler",
+    "price": 10434.89,
+    "date": "2023-03-21",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Lucerne",
+    "price": 5495.09,
+    "date": "2023-03-26",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Frontier",
+    "price": 2972.69,
+    "date": "2023-03-26",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Grand Prix",
+    "price": 60249.93,
+    "date": "2023-03-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "RX-7",
+    "price": 6573.72,
+    "date": "2023-03-27",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Scirocco",
+    "price": 41407.56,
+    "date": "2023-03-29",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 2020.79,
+    "date": "2023-03-30",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Tempo",
+    "price": 55262.6,
+    "date": "2023-03-31",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Town Car",
+    "price": 778.45,
+    "date": "2023-03-31",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "626",
+    "price": 28164.09,
+    "date": "2023-04-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-5",
+    "price": 26736.91,
+    "date": "2023-04-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "CLS-Class",
+    "price": 637.27,
+    "date": "2023-04-02",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Sebring",
+    "price": 5495.43,
+    "date": "2023-04-03",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "DeVille",
+    "price": 1104.31,
+    "date": "2023-04-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 3500",
+    "price": 13499.94,
+    "date": "2023-04-10",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Cabriolet",
+    "price": 14011.7,
+    "date": "2023-04-13",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "S70",
+    "price": 32267.63,
+    "date": "2023-04-15",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon",
+    "price": 6552.68,
+    "date": "2023-04-15",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Colt",
+    "price": 12111.95,
+    "date": "2023-04-16",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-6",
+    "price": 6547.27,
+    "date": "2023-04-16",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Miata MX-5",
+    "price": 5632.65,
+    "date": "2023-04-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Aurora",
+    "price": 3735.27,
+    "date": "2023-04-17",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Isuzu",
+    "model": "Amigo",
+    "price": 6773.19,
+    "date": "2023-04-18",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Passat",
+    "price": 7452.28,
+    "date": "2023-04-20",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "CR-X",
+    "price": 20583.44,
+    "date": "2023-04-22",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A6",
+    "price": 6266.63,
+    "date": "2023-04-22",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Altima",
+    "price": 3575.4,
+    "date": "2023-04-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Verona",
+    "price": 2766.7,
+    "date": "2023-04-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "ES",
+    "price": 6546.15,
+    "date": "2023-04-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Ranger",
+    "price": 26294.09,
+    "date": "2023-04-27",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Regency",
+    "price": 7083.26,
+    "date": "2023-04-28",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Colt",
+    "price": 28511.7,
+    "date": "2023-04-29",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 2538.0,
+    "date": "2023-04-29",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Camry",
+    "price": 132.25,
+    "date": "2023-04-29",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Bronco",
+    "price": 17738.69,
+    "date": "2023-05-01",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Savana 2500",
+    "price": 20758.69,
+    "date": "2023-05-01",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "Z4",
+    "price": 4181.7,
+    "date": "2023-05-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "LR4",
+    "price": 616.88,
+    "date": "2023-05-02",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Justy",
+    "price": 47993.24,
+    "date": "2023-05-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "V8",
+    "price": 48753.21,
+    "date": "2023-05-03",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Century",
+    "price": 18074.02,
+    "date": "2023-05-05",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "SC",
+    "price": 35761.38,
+    "date": "2023-05-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "LUV",
+    "price": 31463.69,
+    "date": "2023-05-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "M-Class",
+    "price": 16464.01,
+    "date": "2023-05-09",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Montana",
+    "price": 7476.75,
+    "date": "2023-05-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Viper RT/10",
+    "price": 23023.87,
+    "date": "2023-05-10",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Montero",
+    "price": 29854.39,
+    "date": "2023-05-11",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "S-Series",
+    "price": 35132.89,
+    "date": "2023-05-12",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Marquis",
+    "price": 52518.72,
+    "date": "2023-05-14",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "B-Series Plus",
+    "price": 6420.51,
+    "date": "2023-05-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "300E",
+    "price": 12205.59,
+    "date": "2023-05-18",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "S4",
+    "price": 11380.66,
+    "date": "2023-05-18",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Suburban 2500",
+    "price": 30151.62,
+    "date": "2023-05-20",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 16084.35,
+    "date": "2023-05-22",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Pathfinder",
+    "price": 15544.82,
+    "date": "2023-05-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Marquis",
+    "price": 12020.48,
+    "date": "2023-05-25",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sonoma",
+    "price": 2339.37,
+    "date": "2023-05-31",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Civic",
+    "price": 5191.93,
+    "date": "2023-06-01",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Seville",
+    "price": 14967.21,
+    "date": "2023-06-01",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "XJ",
+    "price": 6594.26,
+    "date": "2023-06-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Celica",
+    "price": 759.61,
+    "date": "2023-06-02",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 3500",
+    "price": 11656.75,
+    "date": "2023-06-03",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Dakota Club",
+    "price": 12252.81,
+    "date": "2023-06-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Comanche",
+    "price": 21050.69,
+    "date": "2023-06-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Malibu",
+    "price": 26577.17,
+    "date": "2023-06-06",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Accent",
+    "price": 1109.59,
+    "date": "2023-06-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Wrangler",
+    "price": 10680.34,
+    "date": "2023-06-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "LX",
+    "price": 6198.18,
+    "date": "2023-06-11",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Geo",
+    "model": "Storm",
+    "price": 19275.36,
+    "date": "2023-06-11",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F350",
+    "price": 4762.24,
+    "date": "2023-06-13",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "GS",
+    "price": 28983.17,
+    "date": "2023-06-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Aztek",
+    "price": 9869.73,
+    "date": "2023-06-15",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "300",
+    "price": 33055.31,
+    "date": "2023-06-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Tundra",
+    "price": 5440.14,
+    "date": "2023-06-17",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Colorado",
+    "price": 2329.25,
+    "date": "2023-06-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Rolls-Royce",
+    "model": "Ghost",
+    "price": 7097.08,
+    "date": "2023-06-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Civic",
+    "price": 7050.88,
+    "date": "2023-06-20",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "G-Series G30",
+    "price": 29725.91,
+    "date": "2023-06-21",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Seville",
+    "price": 11399.3,
+    "date": "2023-06-21",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Econoline E350",
+    "price": 14005.84,
+    "date": "2023-06-22",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "LR2",
+    "price": 1385.11,
+    "date": "2023-06-22",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Type 2",
+    "price": 62908.99,
+    "date": "2023-06-25",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Isuzu",
+    "model": "Amigo",
+    "price": 509.61,
+    "date": "2023-06-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Laser",
+    "price": 58250.93,
+    "date": "2023-06-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Rally Wagon G3500",
+    "price": 22142.35,
+    "date": "2023-06-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Scion",
+    "model": "xB",
+    "price": 3046.5,
+    "date": "2023-06-28",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Prowler",
+    "price": 13777.7,
+    "date": "2023-06-29",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "E150",
+    "price": 2110.32,
+    "date": "2023-06-29",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Dakota",
+    "price": 29142.55,
+    "date": "2023-07-02",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Endeavor",
+    "price": 3993.61,
+    "date": "2023-07-04",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Highlander",
+    "price": 22966.38,
+    "date": "2023-07-04",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F250",
+    "price": 645.75,
+    "date": "2023-07-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "CR-V",
+    "price": 24870.82,
+    "date": "2023-07-08",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9-7X",
+    "price": 7450.96,
+    "date": "2023-07-11",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Continental",
+    "price": 22561.18,
+    "date": "2023-07-12",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Van 2500",
+    "price": 9687.89,
+    "date": "2023-07-13",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "D250",
+    "price": 48726.51,
+    "date": "2023-07-19",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 5313.89,
+    "date": "2023-07-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 3903.12,
+    "date": "2023-07-19",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A8",
+    "price": 5574.99,
+    "date": "2023-07-21",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Silverado 1500",
+    "price": 30150.77,
+    "date": "2023-07-23",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Rally Wagon G3500",
+    "price": 19036.73,
+    "date": "2023-07-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "LeSabre",
+    "price": 24160.99,
+    "date": "2023-07-26",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Challenger",
+    "price": 2328.14,
+    "date": "2023-07-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Focus",
+    "price": 12949.85,
+    "date": "2023-07-29",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "QX",
+    "price": 219.38,
+    "date": "2023-07-29",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Sentra",
+    "price": 1330.32,
+    "date": "2023-07-30",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "GTO",
+    "price": 4968.88,
+    "date": "2023-07-31",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "B-Series",
+    "price": 12300.57,
+    "date": "2023-07-31",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Sebring",
+    "price": 3097.1,
+    "date": "2023-07-31",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "2500",
+    "price": 48433.97,
+    "date": "2023-08-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Accent",
+    "price": 28860.92,
+    "date": "2023-08-03",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "C30",
+    "price": 10059.29,
+    "date": "2023-08-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "3 Series",
+    "price": 7920.59,
+    "date": "2023-08-06",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 3500",
+    "price": 32096.83,
+    "date": "2023-08-08",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "VUE",
+    "price": 9735.6,
+    "date": "2023-08-10",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sportage",
+    "price": 3494.68,
+    "date": "2023-08-10",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "MKX",
+    "price": 19934.39,
+    "date": "2023-08-10",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Impala",
+    "price": 1829.71,
+    "date": "2023-08-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Torino",
+    "price": 43231.95,
+    "date": "2023-08-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Land Cruiser",
+    "price": 29708.28,
+    "date": "2023-08-17",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "GS",
+    "price": 6857.86,
+    "date": "2023-08-17",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Santa Fe",
+    "price": 13122.16,
+    "date": "2023-08-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Golf",
+    "price": 22661.04,
+    "date": "2023-08-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Freelander",
+    "price": 5056.51,
+    "date": "2023-08-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Windstar",
+    "price": 1076.55,
+    "date": "2023-08-19",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Verona",
+    "price": 14731.87,
+    "date": "2023-08-20",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Mustang",
+    "price": 10434.7,
+    "date": "2023-08-20",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Neon",
+    "price": 7248.71,
+    "date": "2023-08-20",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Protege",
+    "price": 2140.83,
+    "date": "2023-08-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 25091.25,
+    "date": "2023-08-21",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Town Car",
+    "price": 34193.36,
+    "date": "2023-08-22",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "900",
+    "price": 36239.16,
+    "date": "2023-08-23",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "DeVille",
+    "price": 32056.93,
+    "date": "2023-08-23",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Wrangler",
+    "price": 10141.48,
+    "date": "2023-08-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "CLS-Class",
+    "price": 3173.62,
+    "date": "2023-08-29",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Sable",
+    "price": 3237.68,
+    "date": "2023-08-30",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Grand Cherokee",
+    "price": 16716.23,
+    "date": "2023-09-03",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "NSX",
+    "price": 20018.36,
+    "date": "2023-09-04",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Cavalier",
+    "price": 9519.16,
+    "date": "2023-09-05",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Sentra",
+    "price": 5866.23,
+    "date": "2023-09-06",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Taurus",
+    "price": 42247.35,
+    "date": "2023-09-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Maxima",
+    "price": 11296.2,
+    "date": "2023-09-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Traverse",
+    "price": 1046.85,
+    "date": "2023-09-09",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MPV",
+    "price": 32730.69,
+    "date": "2023-09-10",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "400E",
+    "price": 23656.89,
+    "date": "2023-09-12",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Aston Martin",
+    "model": "DB9 Volante",
+    "price": 11266.53,
+    "date": "2023-09-14",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Savana Cargo Van",
+    "price": 11137.91,
+    "date": "2023-09-16",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 16689.81,
+    "date": "2023-09-17",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Grand Marquis",
+    "price": 5035.21,
+    "date": "2023-09-17",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lotus",
+    "model": "Exige",
+    "price": 408.59,
+    "date": "2023-09-17",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Austin",
+    "model": "Mini",
+    "price": 77422.59,
+    "date": "2023-09-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "S4",
+    "price": 34262.62,
+    "date": "2023-09-19",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Colt",
+    "price": 846.76,
+    "date": "2023-09-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Bonneville",
+    "price": 17610.54,
+    "date": "2023-09-20",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Classic",
+    "price": 9831.29,
+    "date": "2023-09-21",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Contour",
+    "price": 3805.89,
+    "date": "2023-09-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "928",
+    "price": 32006.52,
+    "date": "2023-09-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Tiguan",
+    "price": 1222.36,
+    "date": "2023-09-23",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "CLS-Class",
+    "price": 12746.4,
+    "date": "2023-09-23",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-5",
+    "price": 11419.36,
+    "date": "2023-09-23",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Aveo",
+    "price": 19576.76,
+    "date": "2023-09-24",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Land Cruiser",
+    "price": 12871.64,
+    "date": "2023-09-25",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Jetta",
+    "price": 55781.55,
+    "date": "2023-09-26",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "TundraMax",
+    "price": 9346.44,
+    "date": "2023-09-26",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Dakota Club",
+    "price": 25507.07,
+    "date": "2023-10-02",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Vibe",
+    "price": 13874.84,
+    "date": "2023-10-04",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Firefly",
+    "price": 31931.81,
+    "date": "2023-10-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Sequoia",
+    "price": 7243.03,
+    "date": "2023-10-09",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "MR2",
+    "price": 14925.2,
+    "date": "2023-10-10",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "I",
+    "price": 728.71,
+    "date": "2023-10-13",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ferrari",
+    "model": "458 Italia",
+    "price": 1678.22,
+    "date": "2023-10-13",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Xterra",
+    "price": 2050.16,
+    "date": "2023-10-17",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Silverado 3500",
+    "price": 23309.82,
+    "date": "2023-10-17",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "CR-V",
+    "price": 3350.96,
+    "date": "2023-10-21",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon",
+    "price": 23484.77,
+    "date": "2023-10-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "G-Series 2500",
+    "price": 27236.02,
+    "date": "2023-10-22",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "R8",
+    "price": 1904.24,
+    "date": "2023-10-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Firebird",
+    "price": 14343.17,
+    "date": "2023-10-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "1500",
+    "price": 21678.35,
+    "date": "2023-10-26",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "300TE",
+    "price": 1256.48,
+    "date": "2023-10-26",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Mirage",
+    "price": 41349.09,
+    "date": "2023-10-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Accord",
+    "price": 14146.69,
+    "date": "2023-10-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Celica",
+    "price": 11754.07,
+    "date": "2023-10-31",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MPV",
+    "price": 6636.82,
+    "date": "2023-11-02",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Sebring",
+    "price": 20698.28,
+    "date": "2023-11-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Pathfinder",
+    "price": 12311.56,
+    "date": "2023-11-05",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "ZX2",
+    "price": 19495.68,
+    "date": "2023-11-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "300SE",
+    "price": 39483.86,
+    "date": "2023-11-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Morgan",
+    "model": "Aero 8",
+    "price": 5649.72,
+    "date": "2023-11-07",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Silverado 1500",
+    "price": 6202.37,
+    "date": "2023-11-08",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Maybach",
+    "model": "57",
+    "price": 8273.9,
+    "date": "2023-11-08",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Cherokee",
+    "price": 11648.18,
+    "date": "2023-11-11",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 1090.22,
+    "date": "2023-11-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Accord",
+    "price": 50429.78,
+    "date": "2023-11-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "MX-5",
+    "price": 1008.37,
+    "date": "2023-11-17",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Civic",
+    "price": 13843.45,
+    "date": "2023-11-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Avalanche 2500",
+    "price": 16177.96,
+    "date": "2023-11-20",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "Legend",
+    "price": 10746.48,
+    "date": "2023-11-21",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Yaris",
+    "price": 2894.97,
+    "date": "2023-11-22",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "GS",
+    "price": 11270.48,
+    "date": "2023-11-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Sportvan G10",
+    "price": 2446.19,
+    "date": "2023-11-25",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Savana 2500",
+    "price": 128.34,
+    "date": "2023-11-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "RX",
+    "price": 1725.1,
+    "date": "2023-11-26",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Spirit",
+    "price": 8981.37,
+    "date": "2023-11-27",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "Cabriolet",
+    "price": 4849.36,
+    "date": "2023-11-27",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "LaCrosse",
+    "price": 11702.83,
+    "date": "2023-11-27",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Element",
+    "price": 16225.78,
+    "date": "2023-11-28",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Seville",
+    "price": 8026.39,
+    "date": "2023-11-29",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 8806.4,
+    "date": "2023-11-29",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "M-Class",
+    "price": 8573.93,
+    "date": "2023-12-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "S5",
+    "price": 9284.97,
+    "date": "2023-12-05",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Continental",
+    "price": 986.1,
+    "date": "2023-12-06",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Tredia",
+    "price": 27683.45,
+    "date": "2023-12-06",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "V40",
+    "price": 20507.8,
+    "date": "2023-12-06",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Prelude",
+    "price": 41586.62,
+    "date": "2023-12-07",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "100",
+    "price": 20911.19,
+    "date": "2023-12-11",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon XL 1500",
+    "price": 7748.97,
+    "date": "2023-12-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "E-Series",
+    "price": 16834.43,
+    "date": "2023-12-14",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Stealth",
+    "price": 17819.5,
+    "date": "2023-12-14",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 18544.92,
+    "date": "2023-12-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "MINI",
+    "model": "Cooper Clubman",
+    "price": 2845.5,
+    "date": "2023-12-16",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "300ZX",
+    "price": 38331.06,
+    "date": "2023-12-16",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "4Runner",
+    "price": 11957.21,
+    "date": "2023-12-20",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Aston Martin",
+    "model": "V8 Vantage",
+    "price": 8844.82,
+    "date": "2023-12-21",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "C-Class",
+    "price": 982.1,
+    "date": "2023-12-23",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Morgan",
+    "model": "Aero 8",
+    "price": 10670.13,
+    "date": "2023-12-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Concorde",
+    "price": 29132.42,
+    "date": "2023-12-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "CTS",
+    "price": 14992.86,
+    "date": "2023-12-24",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "GT500",
+    "price": 435.09,
+    "date": "2023-12-25",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon XL 1500",
+    "price": 4217.34,
+    "date": "2023-12-26",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Milan",
+    "price": 7489.97,
+    "date": "2023-12-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "M3",
+    "price": 16780.23,
+    "date": "2023-12-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "RAV4",
+    "price": 1754.66,
+    "date": "2023-12-30",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Caprice",
+    "price": 39504.01,
+    "date": "2023-12-31",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "LS",
+    "price": 7269.03,
+    "date": "2024-01-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Millenia",
+    "price": 1759.28,
+    "date": "2024-01-03",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Tribute",
+    "price": 6471.32,
+    "date": "2024-01-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Zephyr",
+    "price": 9790.6,
+    "date": "2024-01-09",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lamborghini",
+    "model": "Murci\u00e9lago",
+    "price": 27388.67,
+    "date": "2024-01-09",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Topaz",
+    "price": 23355.64,
+    "date": "2024-01-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "price": 27714.84,
+    "date": "2024-01-14",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Civic",
+    "price": 21083.86,
+    "date": "2024-01-15",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Lotus",
+    "model": "Exige",
+    "price": 215.16,
+    "date": "2024-01-16",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Rolls-Royce",
+    "model": "Phantom",
+    "price": 5203.33,
+    "date": "2024-01-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Odyssey",
+    "price": 5379.58,
+    "date": "2024-01-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Wagon B250",
+    "price": 12110.13,
+    "date": "2024-01-18",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Dakota Club",
+    "price": 29833.18,
+    "date": "2024-01-19",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "T100",
+    "price": 37363.32,
+    "date": "2024-01-23",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Mustang",
+    "price": 17197.51,
+    "date": "2024-01-25",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Charger",
+    "price": 2502.47,
+    "date": "2024-01-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Tucson",
+    "price": 2667.88,
+    "date": "2024-01-31",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "M-Class",
+    "price": 24509.72,
+    "date": "2024-02-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "price": 6706.67,
+    "date": "2024-02-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Bentley",
+    "model": "Arnage",
+    "price": 16035.81,
+    "date": "2024-02-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Eclipse",
+    "price": 3985.84,
+    "date": "2024-02-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Equinox",
+    "price": 6621.68,
+    "date": "2024-02-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Lancer",
+    "price": 611.17,
+    "date": "2024-02-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Eagle",
+    "model": "Talon",
+    "price": 19700.98,
+    "date": "2024-02-08",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Suburban 1500",
+    "price": 11912.85,
+    "date": "2024-02-09",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Defender 110",
+    "price": 2854.37,
+    "date": "2024-02-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A8",
+    "price": 20140.75,
+    "date": "2024-02-12",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Montego",
+    "price": 5579.46,
+    "date": "2024-02-15",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "GTI",
+    "price": 3395.43,
+    "date": "2024-02-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Golf",
+    "price": 16331.66,
+    "date": "2024-02-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Thunderbird",
+    "price": 116033.24,
+    "date": "2024-02-17",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Forester",
+    "price": 6902.45,
+    "date": "2024-02-18",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Sienna",
+    "price": 3217.23,
+    "date": "2024-02-18",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 2500",
+    "price": 39225.83,
+    "date": "2024-02-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Stratus",
+    "price": 1830.21,
+    "date": "2024-02-27",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F150",
+    "price": 185.47,
+    "date": "2024-02-27",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Escalade ESV",
+    "price": 7606.12,
+    "date": "2024-02-29",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Hummer",
+    "model": "H1",
+    "price": 4997.14,
+    "date": "2024-03-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Crown Victoria",
+    "price": 34374.9,
+    "date": "2024-03-02",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Impreza",
+    "price": 1997.55,
+    "date": "2024-03-03",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "B-Series",
+    "price": 14069.21,
+    "date": "2024-03-03",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Viper RT/10",
+    "price": 14347.4,
+    "date": "2024-03-03",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Esteem",
+    "price": 2973.66,
+    "date": "2024-03-03",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Starion",
+    "price": 61893.89,
+    "date": "2024-03-07",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Venture",
+    "price": 5091.04,
+    "date": "2024-03-08",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "5 Series",
+    "price": 30633.7,
+    "date": "2024-03-08",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Soul",
+    "price": 9894.8,
+    "date": "2024-03-09",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Raider",
+    "price": 8255.08,
+    "date": "2024-03-09",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "B-Series",
+    "price": 7412.2,
+    "date": "2024-03-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Geo",
+    "model": "Prizm",
+    "price": 2666.39,
+    "date": "2024-03-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "GTI",
+    "price": 1838.52,
+    "date": "2024-03-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Sienna",
+    "price": 12737.28,
+    "date": "2024-03-12",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "SSR",
+    "price": 1180.64,
+    "date": "2024-03-12",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Windstar",
+    "price": 9013.1,
+    "date": "2024-03-13",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "DeVille",
+    "price": 15989.52,
+    "date": "2024-03-13",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Suburban 1500",
+    "price": 5932.57,
+    "date": "2024-03-14",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Mirage",
+    "price": 41137.95,
+    "date": "2024-03-15",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Sunfire",
+    "price": 3395.95,
+    "date": "2024-03-15",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Riviera",
+    "price": 14251.83,
+    "date": "2024-03-17",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Fit",
+    "price": 12106.95,
+    "date": "2024-03-17",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "SLS-Class",
+    "price": 11000.12,
+    "date": "2024-03-19",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Van B250",
+    "price": 29703.83,
+    "date": "2024-03-21",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F450",
+    "price": 16843.15,
+    "date": "2024-03-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Safari",
+    "price": 3401.81,
+    "date": "2024-03-25",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Blazer",
+    "price": 33409.51,
+    "date": "2024-03-26",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Titan",
+    "price": 7053.16,
+    "date": "2024-03-28",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Pajero",
+    "price": 4049.78,
+    "date": "2024-03-31",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lotus",
+    "model": "Esprit Turbo",
+    "price": 5750.23,
+    "date": "2024-04-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Vandura 3500",
+    "price": 11748.98,
+    "date": "2024-04-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Camry",
+    "price": 12415.49,
+    "date": "2024-04-02",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "SL-Class",
+    "price": 330.75,
+    "date": "2024-04-05",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Scion",
+    "model": "tC",
+    "price": 33.17,
+    "date": "2024-04-05",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "RL",
+    "price": 3899.79,
+    "date": "2024-04-05",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Xterra",
+    "price": 14258.75,
+    "date": "2024-04-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Riviera",
+    "price": 39093.91,
+    "date": "2024-04-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Sequoia",
+    "price": 13846.27,
+    "date": "2024-04-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Endeavor",
+    "price": 7104.49,
+    "date": "2024-04-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Freelander",
+    "price": 9027.29,
+    "date": "2024-04-08",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "370Z",
+    "price": 8666.28,
+    "date": "2024-04-09",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Seville",
+    "price": 18898.71,
+    "date": "2024-04-09",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Lumina",
+    "price": 16495.54,
+    "date": "2024-04-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 7265.16,
+    "date": "2024-04-11",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F150",
+    "price": 4712.7,
+    "date": "2024-04-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "MDX",
+    "price": 11976.91,
+    "date": "2024-04-13",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "3500",
+    "price": 9025.34,
+    "date": "2024-04-14",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Passat",
+    "price": 11164.04,
+    "date": "2024-04-15",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Mustang",
+    "price": 3044.24,
+    "date": "2024-04-16",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Silverado 1500",
+    "price": 31731.44,
+    "date": "2024-04-17",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Festiva",
+    "price": 28359.56,
+    "date": "2024-04-22",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 16123.28,
+    "date": "2024-04-23",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Metro",
+    "price": 27695.8,
+    "date": "2024-04-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Monte Carlo",
+    "price": 97494.74,
+    "date": "2024-04-23",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Sentra",
+    "price": 8612.72,
+    "date": "2024-04-25",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Regal",
+    "price": 2623.28,
+    "date": "2024-04-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Mark VIII",
+    "price": 22757.33,
+    "date": "2024-04-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Express 2500",
+    "price": 534.12,
+    "date": "2024-04-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Ranger",
+    "price": 2037.07,
+    "date": "2024-04-28",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Durango",
+    "price": 11835.58,
+    "date": "2024-04-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 2500",
+    "price": 28539.71,
+    "date": "2024-04-28",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "CL",
+    "price": 12150.19,
+    "date": "2024-05-01",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Mazda6",
+    "price": 11666.96,
+    "date": "2024-05-02",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "CR-V",
+    "price": 23225.48,
+    "date": "2024-05-03",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Fiero",
+    "price": 40916.31,
+    "date": "2024-05-04",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F150",
+    "price": 4779.64,
+    "date": "2024-05-05",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Corolla",
+    "price": 18796.2,
+    "date": "2024-05-05",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "RSX",
+    "price": 10421.47,
+    "date": "2024-05-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Legacy",
+    "price": 6716.65,
+    "date": "2024-05-06",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "S40",
+    "price": 6014.43,
+    "date": "2024-05-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "FX",
+    "price": 7033.07,
+    "date": "2024-05-08",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 31406.01,
+    "date": "2024-05-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Electra",
+    "price": 25506.12,
+    "date": "2024-05-09",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "645",
+    "price": 3188.79,
+    "date": "2024-05-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Camry Hybrid",
+    "price": 14096.22,
+    "date": "2024-05-11",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "S-Type",
+    "price": 15455.87,
+    "date": "2024-05-12",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Intrepid",
+    "price": 8342.14,
+    "date": "2024-05-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Neon",
+    "price": 20617.58,
+    "date": "2024-05-14",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Tracer",
+    "price": 786.54,
+    "date": "2024-05-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ram",
+    "model": "2500",
+    "price": 1463.57,
+    "date": "2024-05-17",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "G",
+    "price": 7304.51,
+    "date": "2024-05-17",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "LTD Crown Victoria",
+    "price": 35110.54,
+    "date": "2024-05-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Scion",
+    "model": "xB",
+    "price": 4875.54,
+    "date": "2024-05-19",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Commander",
+    "price": 136.85,
+    "date": "2024-05-21",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover",
+    "price": 8747.44,
+    "date": "2024-05-25",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "XC60",
+    "price": 4064.79,
+    "date": "2024-05-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra 3500",
+    "price": 10127.41,
+    "date": "2024-05-28",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "LX",
+    "price": 5150.07,
+    "date": "2024-05-30",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Tiguan",
+    "price": 384.03,
+    "date": "2024-05-30",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Prius",
+    "price": 1822.92,
+    "date": "2024-05-31",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9-5",
+    "price": 18458.54,
+    "date": "2024-06-01",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "SLK-Class",
+    "price": 24615.78,
+    "date": "2024-06-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Vandura 2500",
+    "price": 25714.11,
+    "date": "2024-06-02",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Mirage",
+    "price": 23674.92,
+    "date": "2024-06-02",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "LR2",
+    "price": 11837.25,
+    "date": "2024-06-02",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "940",
+    "price": 24581.6,
+    "date": "2024-06-03",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Santa Fe",
+    "price": 3813.77,
+    "date": "2024-06-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caliber",
+    "price": 4452.15,
+    "date": "2024-06-04",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Ciera",
+    "price": 4040.19,
+    "date": "2024-06-05",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon",
+    "price": 6613.0,
+    "date": "2024-06-05",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Veracruz",
+    "price": 9860.61,
+    "date": "2024-06-05",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 16267.24,
+    "date": "2024-06-06",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra 3500",
+    "price": 113.89,
+    "date": "2024-06-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "911",
+    "price": 15963.14,
+    "date": "2024-06-06",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Vibe",
+    "price": 14249.33,
+    "date": "2024-06-07",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Maybach",
+    "model": "57",
+    "price": 4171.81,
+    "date": "2024-06-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Sonata",
+    "price": 10784.55,
+    "date": "2024-06-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Cabriolet",
+    "price": 53999.9,
+    "date": "2024-06-10",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Pathfinder",
+    "price": 38505.02,
+    "date": "2024-06-12",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F150",
+    "price": 19193.25,
+    "date": "2024-06-15",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 1599.48,
+    "date": "2024-06-17",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Transit Connect",
+    "price": 15332.58,
+    "date": "2024-06-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Reno",
+    "price": 14220.5,
+    "date": "2024-06-18",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Century",
+    "price": 30531.94,
+    "date": "2024-06-19",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Van B250",
+    "price": 19855.9,
+    "date": "2024-06-19",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Lumina",
+    "price": 24717.24,
+    "date": "2024-06-20",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Miata MX-5",
+    "price": 3324.96,
+    "date": "2024-06-21",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Forenza",
+    "price": 15946.31,
+    "date": "2024-06-21",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "McLaren",
+    "model": "MP4-12C",
+    "price": 11816.54,
+    "date": "2024-06-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Xtra",
+    "price": 39023.35,
+    "date": "2024-06-24",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Viper",
+    "price": 32867.53,
+    "date": "2024-06-25",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Regal",
+    "price": 18854.17,
+    "date": "2024-06-26",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Achieva",
+    "price": 25875.57,
+    "date": "2024-06-26",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "3500",
+    "price": 3811.53,
+    "date": "2024-06-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Raider",
+    "price": 17274.12,
+    "date": "2024-06-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "GS",
+    "price": 5640.55,
+    "date": "2024-07-02",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Rabbit",
+    "price": 6541.62,
+    "date": "2024-07-03",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Golf",
+    "price": 37229.36,
+    "date": "2024-07-03",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "S10 Blazer",
+    "price": 27628.37,
+    "date": "2024-07-03",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Routan",
+    "price": 11463.3,
+    "date": "2024-07-05",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Discovery",
+    "price": 28541.49,
+    "date": "2024-07-06",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "G-Class",
+    "price": 14533.23,
+    "date": "2024-07-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "Sprinter 2500",
+    "price": 618.67,
+    "date": "2024-07-07",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon",
+    "price": 9162.85,
+    "date": "2024-07-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra",
+    "price": 8942.29,
+    "date": "2024-07-11",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Sunbird",
+    "price": 64781.15,
+    "date": "2024-07-11",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Vibe",
+    "price": 12891.14,
+    "date": "2024-07-11",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Rendezvous",
+    "price": 1615.19,
+    "date": "2024-07-13",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra 2500HD",
+    "price": 28.42,
+    "date": "2024-07-15",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Golf",
+    "price": 19592.17,
+    "date": "2024-07-17",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Bentley",
+    "model": "Arnage",
+    "price": 2652.6,
+    "date": "2024-07-19",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "525",
+    "price": 16206.06,
+    "date": "2024-07-20",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "S4",
+    "price": 11051.83,
+    "date": "2024-07-21",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Colt Vista",
+    "price": 45790.53,
+    "date": "2024-07-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Passat",
+    "price": 16492.62,
+    "date": "2024-07-23",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A5",
+    "price": 2408.51,
+    "date": "2024-07-24",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Alcyone SVX",
+    "price": 27554.97,
+    "date": "2024-07-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "SSR",
+    "price": 20638.88,
+    "date": "2024-07-25",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 1048.79,
+    "date": "2024-07-26",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "SL-Class",
+    "price": 15675.57,
+    "date": "2024-07-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Suburban 1500",
+    "price": 15950.36,
+    "date": "2024-07-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Lynx",
+    "price": 39744.93,
+    "date": "2024-07-27",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "Outlook",
+    "price": 11735.46,
+    "date": "2024-07-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Grand Marquis",
+    "price": 18653.71,
+    "date": "2024-07-28",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Spyker",
+    "model": "C8",
+    "price": 13659.95,
+    "date": "2024-07-30",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Eagle",
+    "model": "Vision",
+    "price": 29154.89,
+    "date": "2024-07-30",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Fit",
+    "price": 14679.96,
+    "date": "2024-07-30",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "HHR",
+    "price": 9789.65,
+    "date": "2024-07-31",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Crown Victoria",
+    "price": 334.68,
+    "date": "2024-08-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Esteem",
+    "price": 14904.32,
+    "date": "2024-08-03",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Monterey",
+    "price": 3996.58,
+    "date": "2024-08-06",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover",
+    "price": 22257.33,
+    "date": "2024-08-07",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "S-Class",
+    "price": 43119.32,
+    "date": "2024-08-07",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Jimmy",
+    "price": 29812.24,
+    "date": "2024-08-09",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "New Beetle",
+    "price": 7411.72,
+    "date": "2024-08-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A3",
+    "price": 12387.99,
+    "date": "2024-08-16",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "R-Class",
+    "price": 6187.84,
+    "date": "2024-08-16",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Malibu",
+    "price": 16345.27,
+    "date": "2024-08-17",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Seville",
+    "price": 19836.17,
+    "date": "2024-08-20",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 22542.07,
+    "date": "2024-08-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F150",
+    "price": 34298.7,
+    "date": "2024-08-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "MDX",
+    "price": 5524.17,
+    "date": "2024-08-25",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Focus",
+    "price": 22343.27,
+    "date": "2024-08-27",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "XLR",
+    "price": 15238.11,
+    "date": "2024-08-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "S-Type",
+    "price": 4705.32,
+    "date": "2024-08-30",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 2500 Club",
+    "price": 12311.42,
+    "date": "2024-09-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Lamborghini",
+    "model": "Gallardo",
+    "price": 10718.14,
+    "date": "2024-09-02",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Lumina",
+    "price": 25926.35,
+    "date": "2024-09-05",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Safari",
+    "price": 13274.29,
+    "date": "2024-09-05",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "price": 326.4,
+    "date": "2024-09-05",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "944",
+    "price": 45701.23,
+    "date": "2024-09-06",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Plymouth",
+    "model": "Acclaim",
+    "price": 31426.77,
+    "date": "2024-09-07",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "RX-7",
+    "price": 26098.5,
+    "date": "2024-09-08",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "APV",
+    "price": 44845.82,
+    "date": "2024-09-13",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Escape",
+    "price": 11374.33,
+    "date": "2024-09-15",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "Ion",
+    "price": 15541.6,
+    "date": "2024-09-16",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Discovery Series II",
+    "price": 987.08,
+    "date": "2024-09-17",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra",
+    "price": 10130.02,
+    "date": "2024-09-18",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Saab",
+    "model": "9000",
+    "price": 2152.43,
+    "date": "2024-09-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Neon",
+    "price": 3165.79,
+    "date": "2024-09-19",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Avalon",
+    "price": 6104.91,
+    "date": "2024-09-21",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Cadillac",
+    "model": "Eldorado",
+    "price": 31184.94,
+    "date": "2024-09-24",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Impala",
+    "price": 22867.63,
+    "date": "2024-09-27",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "S-Series",
+    "price": 12462.44,
+    "date": "2024-09-29",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Aveo",
+    "price": 4544.52,
+    "date": "2024-09-30",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Sable",
+    "price": 60142.87,
+    "date": "2024-10-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Sentra",
+    "price": 3480.75,
+    "date": "2024-10-04",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Imperial",
+    "price": 17099.62,
+    "date": "2024-10-05",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Cobalt SS",
+    "price": 660.62,
+    "date": "2024-10-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "R32",
+    "price": 1885.22,
+    "date": "2024-10-11",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sedona",
+    "price": 18462.47,
+    "date": "2024-10-12",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "300",
+    "price": 7208.43,
+    "date": "2024-10-12",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Imperial",
+    "price": 10244.64,
+    "date": "2024-10-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "Cayenne",
+    "price": 12622.25,
+    "date": "2024-10-13",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Firefly",
+    "price": 25164.69,
+    "date": "2024-10-14",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Charger",
+    "price": 31800.92,
+    "date": "2024-10-14",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Saturn",
+    "model": "VUE",
+    "price": 5085.53,
+    "date": "2024-10-15",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Maybach",
+    "model": "Landaulet",
+    "price": 3420.88,
+    "date": "2024-10-18",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "7 Series",
+    "price": 14136.34,
+    "date": "2024-10-21",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sportage",
+    "price": 17682.66,
+    "date": "2024-10-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "GS",
+    "price": 4705.43,
+    "date": "2024-10-23",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Grand Caravan",
+    "price": 5958.91,
+    "date": "2024-10-23",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Blazer",
+    "price": 33314.74,
+    "date": "2024-10-23",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "929",
+    "price": 44406.58,
+    "date": "2024-10-24",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Fox",
+    "price": 34528.36,
+    "date": "2024-10-25",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Cougar",
+    "price": 4530.65,
+    "date": "2024-10-26",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "A4",
+    "price": 1174.33,
+    "date": "2024-10-26",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Galant",
+    "price": 1448.6,
+    "date": "2024-10-28",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "ES",
+    "price": 8224.25,
+    "date": "2024-11-04",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Wagon B150",
+    "price": 17845.41,
+    "date": "2024-11-06",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Hummer",
+    "model": "H1",
+    "price": 37621.85,
+    "date": "2024-11-07",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "PT Cruiser",
+    "price": 8655.27,
+    "date": "2024-11-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Miata MX-5",
+    "price": 16667.57,
+    "date": "2024-11-08",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Hummer",
+    "model": "H3",
+    "price": 8090.43,
+    "date": "2024-11-08",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Jaguar",
+    "model": "XK",
+    "price": 7523.69,
+    "date": "2024-11-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Spyker",
+    "model": "C8 Spyder Wide Body",
+    "price": 5695.27,
+    "date": "2024-11-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Imperial",
+    "price": 14986.29,
+    "date": "2024-11-10",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Corvette",
+    "price": 26652.76,
+    "date": "2024-11-11",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Crown Victoria",
+    "price": 22461.19,
+    "date": "2024-11-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "RX-8",
+    "price": 14105.15,
+    "date": "2024-11-15",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon XL 2500",
+    "price": 16924.07,
+    "date": "2024-11-15",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "Coupe GT",
+    "price": 67759.72,
+    "date": "2024-11-15",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Sportage",
+    "price": 8097.61,
+    "date": "2024-11-16",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Sienna",
+    "price": 2561.66,
+    "date": "2024-11-18",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "300",
+    "price": 33180.82,
+    "date": "2024-11-20",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Miata MX-5",
+    "price": 9771.51,
+    "date": "2024-11-21",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "LX",
+    "price": 3915.17,
+    "date": "2024-11-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 28242.34,
+    "date": "2024-11-23",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover",
+    "price": 33770.63,
+    "date": "2024-11-24",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Monterey",
+    "price": 6580.13,
+    "date": "2024-11-24",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lamborghini",
+    "model": "Gallardo",
+    "price": 9373.41,
+    "date": "2024-11-26",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Sable",
+    "price": 470.82,
+    "date": "2024-11-26",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Pilot",
+    "price": 1930.49,
+    "date": "2024-11-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Celica",
+    "price": 31118.35,
+    "date": "2024-11-30",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "RAV4",
+    "price": 5956.51,
+    "date": "2024-12-01",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "928",
+    "price": 34974.87,
+    "date": "2024-12-01",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Samurai",
+    "price": 32785.34,
+    "date": "2024-12-02",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Sable",
+    "price": 43006.82,
+    "date": "2024-12-02",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "MDX",
+    "price": 9289.67,
+    "date": "2024-12-03",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "Reno",
+    "price": 10941.72,
+    "date": "2024-12-03",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Windstar",
+    "price": 13297.96,
+    "date": "2024-12-04",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Intrepid",
+    "price": 3474.96,
+    "date": "2024-12-08",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Flex",
+    "price": 4675.54,
+    "date": "2024-12-09",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "model": "CL-Class",
+    "price": 7595.23,
+    "date": "2024-12-09",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Envoy",
+    "price": 2463.46,
+    "date": "2024-12-10",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "HHR",
+    "price": 3529.85,
+    "date": "2024-12-11",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F-Series",
+    "price": 3825.77,
+    "date": "2024-12-12",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Touareg",
+    "price": 7478.65,
+    "date": "2024-12-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "V70",
+    "price": 15031.02,
+    "date": "2024-12-14",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Colt",
+    "price": 3554.95,
+    "date": "2024-12-18",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Dynasty",
+    "price": 30684.16,
+    "date": "2024-12-19",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "Z8",
+    "price": 3324.79,
+    "date": "2024-12-21",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Sierra 1500",
+    "price": 3308.91,
+    "date": "2024-12-22",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Starion",
+    "price": 20451.16,
+    "date": "2024-12-23",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "200",
+    "price": 3707.03,
+    "date": "2024-12-23",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 11819.39,
+    "date": "2024-12-24",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Rally Wagon 1500",
+    "price": 21247.83,
+    "date": "2024-12-24",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram Wagon B250",
+    "price": 9908.64,
+    "date": "2024-12-25",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "HHR",
+    "price": 8723.32,
+    "date": "2024-12-26",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Lancer Evolution",
+    "price": 4198.48,
+    "date": "2024-12-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "G",
+    "price": 13226.38,
+    "date": "2024-12-27",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Suzuki",
+    "model": "XL-7",
+    "price": 5429.16,
+    "date": "2024-12-28",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Millenia",
+    "price": 16199.38,
+    "date": "2025-01-06",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Bentley",
+    "model": "Continental GT",
+    "price": 3951.4,
+    "date": "2025-01-06",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Malibu",
+    "price": 15137.09,
+    "date": "2025-01-07",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Jeep",
+    "model": "Liberty",
+    "price": 6111.26,
+    "date": "2025-01-07",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Yukon",
+    "price": 17397.61,
+    "date": "2025-01-08",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "3 Series",
+    "price": 766.54,
+    "date": "2025-01-08",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Cutlass Supreme",
+    "price": 33806.46,
+    "date": "2025-01-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "S40",
+    "price": 3195.79,
+    "date": "2025-01-14",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "5 Series",
+    "price": 4749.83,
+    "date": "2025-01-15",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Audi",
+    "model": "90",
+    "price": 5174.45,
+    "date": "2025-01-15",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "G",
+    "price": 28608.55,
+    "date": "2025-01-16",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Frontier",
+    "price": 20976.33,
+    "date": "2025-01-20",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mercury",
+    "model": "Mountaineer",
+    "price": 21248.51,
+    "date": "2025-01-21",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Impreza",
+    "price": 27734.74,
+    "date": "2025-01-22",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Concorde",
+    "price": 21869.76,
+    "date": "2025-01-23",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Caravan",
+    "price": 2003.33,
+    "date": "2025-01-24",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Diamante",
+    "price": 20139.28,
+    "date": "2025-01-25",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Ram 3500",
+    "price": 9611.72,
+    "date": "2025-01-27",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "LeBaron",
+    "price": 32137.25,
+    "date": "2025-01-27",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Windstar",
+    "price": 11674.13,
+    "date": "2025-01-28",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "LeSabre",
+    "price": 52906.48,
+    "date": "2025-01-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Terrain",
+    "price": 17980.77,
+    "date": "2025-01-29",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Infiniti",
+    "model": "J",
+    "price": 42810.6,
+    "date": "2025-01-29",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Yaris",
+    "price": 7405.3,
+    "date": "2025-01-29",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Oldsmobile",
+    "model": "Achieva",
+    "price": 20048.84,
+    "date": "2025-02-01",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Cavalier",
+    "price": 7551.61,
+    "date": "2025-02-05",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "Blackwood",
+    "price": 8131.21,
+    "date": "2025-02-08",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Volkswagen",
+    "model": "Touareg",
+    "price": 12641.27,
+    "date": "2025-02-08",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "Cayman",
+    "price": 2014.23,
+    "date": "2025-02-09",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Land Cruiser",
+    "price": 33660.89,
+    "date": "2025-02-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lincoln",
+    "model": "LS",
+    "price": 20938.96,
+    "date": "2025-02-10",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Dodge",
+    "model": "Dakota Club",
+    "price": 17748.47,
+    "date": "2025-02-11",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "E350",
+    "price": 8166.52,
+    "date": "2025-02-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Lamborghini",
+    "model": "Gallardo",
+    "price": 2268.02,
+    "date": "2025-02-13",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Equinox",
+    "price": 5047.26,
+    "date": "2025-02-18",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Hyundai",
+    "model": "Accent",
+    "price": 16305.67,
+    "date": "2025-02-18",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "Justy",
+    "price": 4164.11,
+    "date": "2025-02-23",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Honda",
+    "model": "Passport",
+    "price": 478.94,
+    "date": "2025-02-24",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "F250",
+    "price": 4719.7,
+    "date": "2025-02-25",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Vandura G3500",
+    "price": 184.43,
+    "date": "2025-02-25",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Sebring",
+    "price": 3518.62,
+    "date": "2025-02-25",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Mustang",
+    "price": 29386.6,
+    "date": "2025-02-25",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Chrysler",
+    "model": "Town & Country",
+    "price": 5676.13,
+    "date": "2025-02-26",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Outlander",
+    "price": 10627.36,
+    "date": "2025-02-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "Suburban 2500",
+    "price": 4237.06,
+    "date": "2025-02-27",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Volvo",
+    "model": "V70",
+    "price": 19260.94,
+    "date": "2025-02-28",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Freelander",
+    "price": 5998.81,
+    "date": "2025-03-01",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Nissan",
+    "model": "Pathfinder",
+    "price": 3027.84,
+    "date": "2025-03-03",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Pontiac",
+    "model": "Tempest",
+    "price": 35603.61,
+    "date": "2025-03-04",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "626",
+    "price": 52098.48,
+    "date": "2025-03-04",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Porsche",
+    "model": "911",
+    "price": 2108.03,
+    "date": "2025-03-06",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Subaru",
+    "model": "XT",
+    "price": 9287.69,
+    "date": "2025-03-07",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Isuzu",
+    "model": "Axiom",
+    "price": 4885.53,
+    "date": "2025-03-07",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "Mitsubishi",
+    "model": "Mirage",
+    "price": 35419.7,
+    "date": "2025-03-07",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "GMC",
+    "model": "2500",
+    "price": 6838.19,
+    "date": "2025-03-11",
+    "color": "Red",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Sequoia",
+    "price": 7207.57,
+    "date": "2025-03-12",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Ford",
+    "model": "Focus",
+    "price": 24567.34,
+    "date": "2025-03-13",
+    "color": "Silver",
+    "source": "json"
+  },
+  {
+    "company": "Kia",
+    "model": "Rio",
+    "price": 11805.43,
+    "date": "2025-03-16",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Acura",
+    "model": "CL",
+    "price": 7187.02,
+    "date": "2025-03-19",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Land Rover",
+    "model": "Range Rover Sport",
+    "price": 2744.66,
+    "date": "2025-03-19",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Mazda",
+    "model": "Millenia",
+    "price": 3955.09,
+    "date": "2025-03-21",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Geo",
+    "model": "Prizm",
+    "price": 37933.75,
+    "date": "2025-03-22",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Hummer",
+    "model": "H1",
+    "price": 8073.51,
+    "date": "2025-03-23",
+    "color": "Gray",
+    "source": "json"
+  },
+  {
+    "company": "Toyota",
+    "model": "Solara",
+    "price": 4527.51,
+    "date": "2025-03-26",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Lexus",
+    "model": "SC",
+    "price": 2577.33,
+    "date": "2025-03-26",
+    "color": "Blue",
+    "source": "json"
+  },
+  {
+    "company": "BMW",
+    "model": "5 Series",
+    "price": 9353.21,
+    "date": "2025-03-27",
+    "color": "Black",
+    "source": "json"
+  },
+  {
+    "company": "Chevrolet",
+    "model": "Equinox",
+    "price": 12376.06,
+    "date": "2025-03-28",
+    "color": "White",
+    "source": "json"
+  },
+  {
+    "company": "Buick",
+    "model": "Century",
+    "price": 62468.59,
+    "date": "2025-03-29",
+    "color": "Silver",
+    "source": "json"
+  }
+]
